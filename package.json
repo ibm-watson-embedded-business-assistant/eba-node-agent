@@ -1,0 +1,24 @@
+{
+  "name": "eba-node-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eba-agent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibm-watson-embedded-business-assistant/eba-node-agent.git"
+  },
+  "author": "EBA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibm-watson-embedded-business-assistant/eba-node-agent/issues"
+  },
+  "homepage": "https://github.com/ibm-watson-embedded-business-assistant/eba-node-agent#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
